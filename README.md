@@ -1,2 +1,27 @@
 # FINAL-EXAM
-HTML
+# WEB DESIGN FINAL EXAM
+# REG NUM: 2024/DSC/0035/SS
+# STUDENT ID: 22440179
+
+# SECTION A: MULTIPLE CHOICE QUESTIONS
+
+# 1. A
+# 2. D
+# 3. B
+# 4. C
+# 5. B
+# 6. B
+# 7. C
+# 8. C
+# 9. C
+# 10. B
+# 11. B
+# 12. A
+# 13. A
+# 14. B
+# 15. D
+# 16. A
+# 17. B
+# 18. B
+# 19. A
+# 20. C

@@ -1,0 +1,18 @@
+nav{
+    background-color: rgba(0, 0, 0, 0.783);
+    text-align: right;
+    font-size: 30px;
+    padding-top:20px ;
+}
+nav a {
+    padding: 30px;
+    text-decoration: none;
+    color: rgb(249, 249, 249);
+}
+nav a:hover{
+    text-decoration: underline purple;
+    transform: scale(0.5s);
+}
+.nav a:hover::after{
+    color: rgb(206, 156, 253);
+}

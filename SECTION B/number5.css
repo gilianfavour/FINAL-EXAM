@@ -1,0 +1,15 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 25% 75%;
+    grid-template-rows:auto auto ;
+    padding: 10px;
+}
+.sidebar, .content{
+    text-align: center;
+    border:1px solid rgba(85, 83, 83, 0.968);
+    padding: 100px;
+    color:black;
+    font-size: 30px;
+    text-align: center;
+    align-content: center;
+}

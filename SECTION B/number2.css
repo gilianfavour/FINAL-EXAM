@@ -1,0 +1,26 @@
+nav{
+    background-color: rgba(0, 0, 0, 0.783);
+   
+    font-size: 30px;
+    padding-top:20px ;
+}
+nav a {
+    display: flex;
+    padding: 30px;
+    text-decoration: none;
+    color: rgb(249, 249, 249);
+}
+nav a:hover{
+    text-decoration: underline purple;
+    transform: scale(0.5s);
+}
+ul li {
+    list-style: none;
+    padding-top: 20px;
+}
+@media only screen and (max-width:786px)  {
+    nav{
+        align-content: left;
+    }
+   
+}

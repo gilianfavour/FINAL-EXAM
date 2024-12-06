@@ -1,0 +1,61 @@
+nav{
+    background-color: rgba(0, 0, 0, 0.783);
+    text-align: right;
+    font-size: 30px;
+    padding-top:20px ;
+}
+nav a {
+    padding: 30px;
+    text-decoration: none;
+    color: rgb(249, 249, 249);
+}
+nav a:hover{
+    text-decoration: underline purple;
+    transform: scale(0.5s);
+}
+.nav a:hover::after{
+    color: rgb(206, 156, 253);
+}
+form {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px solid;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #010101;
+    
+}
+
+fieldset {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+legend {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 2px solid #812fec;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: blueviolet;
+    color: rgb(250, 248, 248);
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blueviolet;
+}
